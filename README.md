@@ -4,6 +4,16 @@
 ```
 npm install
 ```
+```
+mv .env.example .env
+```
+Or 
+```
+cp .env.example .env
+```
+If you want to keep the example file. 
+
+Then put your datas into it according to your firebase configuration
 
 ### Compiles and hot-reloads for development
 ```
